@@ -1,3 +1,4 @@
+
 <!-- ========================================================= -->
 <!--                       RENATA ROCHA                         -->
 <!--              github.com/ahcorataner                       -->
@@ -34,7 +35,7 @@ Computer Engineer
 M.Sc. Electrical Engineering · Automation & Control
 PhD Researcher · Automation & Control
 Postgraduate Studies · Artificial Intelligence
-```
+````
 
 I build at the intersection of **software, data, machine learning and engineering**.
 
@@ -70,7 +71,7 @@ Web platform designed around asset management, maintenance workflows, traceabili
 
 <br>
 
-`React` `TypeScript` `Vite`  
+`React` `TypeScript` `Vite`
 `Supabase` `PostgreSQL`
 
 <br><br>
@@ -91,7 +92,7 @@ Application for processing and translating long documents while preserving their
 
 <br>
 
-`Python` `Streamlit`  
+`Python` `Streamlit`
 `APIs` `Document Processing`
 
 <br><br>
@@ -116,8 +117,8 @@ Platform combining generative AI, structured data and software automation for do
 
 <br>
 
-`React` `TypeScript`  
-`Generative AI` `Supabase`  
+`React` `TypeScript`
+`Generative AI` `Supabase`
 `PostgreSQL` `Vercel`
 
 </td>
@@ -132,7 +133,7 @@ Interactive application for dynamic systems, stability analysis, temporal respon
 
 <br>
 
-`Python` `Streamlit`  
+`Python` `Streamlit`
 `Control Engineering`
 
 <br><br>
@@ -313,16 +314,6 @@ RAW SIGNAL
 
 <br>
 
-### `ACTIVITY`
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahcorataner&bg_color=05070B&color=C7D0D9&line=58C7E8&point=D9913B&area=true&area_color=11161D&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
-<br>
-
 ### `CONTRIBUTION TRAIL`
 
 <div align="center">
@@ -380,3 +371,4 @@ BUILDING SYSTEMS · EXPLORING SIGNALS · TURNING DATA INTO DECISIONS
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9913B,10:C7D0D9,38:66717D,68:11161D,100:05070B&height=130&section=footer"/>
+
