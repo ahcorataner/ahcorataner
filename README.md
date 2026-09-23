@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!--                       RENATA ROCHA                         -->
 <!--              github.com/ahcorataner                       -->
@@ -6,20 +5,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0F172A,48:6D28D9,72:00D9FF,100:FF7A00&height=235&section=header&text=Renata%20Rocha&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20INTELLIGENCE%20%E2%80%A2%20RESEARCH&descAlignY=55&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,28:11161D,58:66717D,82:9FAAB5,100:58C7E8&height=235&section=header&text=Renata%20Rocha&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20INTELLIGENCE%20%E2%80%A2%20RESEARCH&descAlignY=55&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=I+build+systems+that+turn+data+into+decisions.;Machine+Learning+%C2%B7+Software+%C2%B7+Signals+%C2%B7+Automation;From+research+prototypes+to+working+systems." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=58C7E8&center=true&vCenter=true&width=900&lines=I+build+systems+that+turn+data+into+decisions.;Machine+Learning+%C2%B7+Software+%C2%B7+Signals+%C2%B7+Automation;From+research+prototypes+to+working+systems." alt="Typing animation"/>
 
 <br>
 
 <a href="https://github.com/ahcorataner">
-  <img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/GITHUB-05070B?style=for-the-badge&logo=github&logoColor=C7D0D9"/>
 </a>
 <a href="http://lattes.cnpq.br/3712352147711530">
-  <img src="https://img.shields.io/badge/LATTES-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LATTES-66717D?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
 </a>
 <a href="https://orcid.org/0009-0001-4346-1259">
-  <img src="https://img.shields.io/badge/ORCID-FF7A00?style=for-the-badge&logo=orcid&logoColor=030712"/>
+  <img src="https://img.shields.io/badge/ORCID-D9913B?style=for-the-badge&logo=orcid&logoColor=05070B"/>
 </a>
 
 </div>
@@ -58,6 +57,7 @@ I'm especially interested in problems where the final answer is not just an anal
 ## `02 // SELECTED BUILDS`
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -76,7 +76,7 @@ Web platform designed around asset management, maintenance workflows, traceabili
 <br><br>
 
 <a href="https://github.com/ahcorataner/fixer">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=030712"/>
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-11161D?style=for-the-badge&logo=github&logoColor=58C7E8"/>
 </a>
 
 </td>
@@ -97,7 +97,7 @@ Application for processing and translating long documents while preserving their
 <br><br>
 
 <a href="https://github.com/ahcorataner/tradutorapp">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-66717D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </td>
@@ -138,12 +138,13 @@ Interactive application for dynamic systems, stability analysis, temporal respon
 <br><br>
 
 <a href="https://engenharia-de-controle.streamlit.app/">
-<img src="https://img.shields.io/badge/LAUNCH_APP-FF7A00?style=for-the-badge&logo=streamlit&logoColor=030712"/>
+<img src="https://img.shields.io/badge/LAUNCH_APP-D9913B?style=for-the-badge&logo=streamlit&logoColor=05070B"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -166,14 +167,14 @@ Interactive application for dynamic systems, stability analysis, temporal respon
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-00E5FF?style=flat-square&logo=scikitlearn&logoColor=030712"/>
-<img src="https://img.shields.io/badge/TENSORFLOW-FF7A00?style=flat-square&logo=tensorflow&logoColor=030712"/>
-<img src="https://img.shields.io/badge/POWER_BI-FDE047?style=flat-square&logo=powerbi&logoColor=030712"/>
-<img src="https://img.shields.io/badge/DAX-7C3AED?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL-2563EB?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-00D9FF?style=flat-square&logo=fastapi&logoColor=030712"/>
-<img src="https://img.shields.io/badge/SHAP-EC4899?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATISTICAL_MODELING-6D28D9?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-11161D?style=flat-square&logo=scikitlearn&logoColor=58C7E8"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-11161D?style=flat-square&logo=tensorflow&logoColor=D9913B"/>
+<img src="https://img.shields.io/badge/POWER_BI-66717D?style=flat-square&logo=powerbi&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/DAX-66717D?style=flat-square&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ETL-C7D0D9?style=flat-square&logoColor=05070B"/>
+<img src="https://img.shields.io/badge/REST_APIs-58C7E8?style=flat-square&logo=fastapi&logoColor=05070B"/>
+<img src="https://img.shields.io/badge/SHAP-11161D?style=flat-square&logoColor=C7D0D9"/>
+<img src="https://img.shields.io/badge/STATISTICAL_MODELING-66717D?style=flat-square&logoColor=FFFFFF"/>
 
 </div>
 
@@ -210,9 +211,9 @@ The project progressed beyond an academic experiment:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CILAMCE_2025-00D9FF?style=for-the-badge&logoColor=030712"/>
-<img src="https://img.shields.io/badge/INPI_REGISTERED_SOFTWARE-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/2nd_PLACE_INNOVATION-FF7A00?style=for-the-badge&logoColor=030712"/>
+<img src="https://img.shields.io/badge/CILAMCE_2025-11161D?style=for-the-badge&logoColor=58C7E8"/>
+<img src="https://img.shields.io/badge/INPI_REGISTERED_SOFTWARE-66717D?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/2nd_PLACE_INNOVATION-D9913B?style=for-the-badge&logoColor=05070B"/>
 
 </div>
 
@@ -236,11 +237,11 @@ BR512026000679-1
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/EEG-00E5FF?style=for-the-badge&logoColor=030712"/>
-<img src="https://img.shields.io/badge/ECG-FF3CAC?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SIGNAL_PROCESSING-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SYSTEM_IDENTIFICATION-FF7A00?style=for-the-badge&logoColor=030712"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-00D9FF?style=for-the-badge&logoColor=030712"/>
+<img src="https://img.shields.io/badge/EEG-05070B?style=for-the-badge&logoColor=58C7E8"/>
+<img src="https://img.shields.io/badge/ECG-11161D?style=for-the-badge&logoColor=C7D0D9"/>
+<img src="https://img.shields.io/badge/SIGNAL_PROCESSING-66717D?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SYSTEM_IDENTIFICATION-C7D0D9?style=for-the-badge&logoColor=05070B"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-58C7E8?style=for-the-badge&logoColor=05070B"/>
 
 </div>
 
@@ -250,37 +251,43 @@ My current research focuses on computational models built from **electrophysiolo
 
 The core problem is simple to state and difficult to solve:
 
-> How can raw physiological signals become reliable information for intelligent decision-support systems?
+> **How can raw physiological signals become reliable information for intelligent decision-support systems?**
 
 ```text
 RAW SIGNAL
     │
     ▼
-┌──────────────────────┐
-│  SIGNAL PROCESSING   │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│ FEATURE EXTRACTION   │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│ SYSTEM IDENTIFICATION│
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│ MACHINE LEARNING     │
-└──────────┬───────────┘
-           ▼
-   PREDICTIVE MODEL
-           │
-           ▼
-   DECISION SUPPORT
+┌────────────────────────┐
+│   SIGNAL PROCESSING    │
+└───────────┬────────────┘
+            │
+            ▼
+┌────────────────────────┐
+│   FEATURE EXTRACTION   │
+└───────────┬────────────┘
+            │
+            ▼
+┌────────────────────────┐
+│ SYSTEM IDENTIFICATION  │
+└───────────┬────────────┘
+            │
+            ▼
+┌────────────────────────┐
+│    MACHINE LEARNING    │
+└───────────┬────────────┘
+            │
+            ▼
+      PREDICTIVE MODEL
+            │
+            ▼
+      DECISION SUPPORT
 ```
 
-Current interests:
+<div align="center">
 
-`EEG` · `ECG` · `Signal Processing` · `System Identification` · `Machine Learning` · `Predictive Modeling`
+`EEG` · `ECG` · `SIGNAL PROCESSING` · `SYSTEM IDENTIFICATION` · `MACHINE LEARNING` · `PREDICTIVE MODELING`
+
+</div>
 
 <br>
 
@@ -290,17 +297,17 @@ Current interests:
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahcorataner&theme=tokyonight"/>
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahcorataner&theme=github_dark"/>
 
 <br>
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahcorataner&theme=tokyonight"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahcorataner&theme=tokyonight"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahcorataner&theme=github_dark"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahcorataner&theme=github_dark"/>
 
 <br>
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahcorataner&theme=tokyonight"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahcorataner&theme=tokyonight&utcOffset=-3"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahcorataner&theme=github_dark"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahcorataner&theme=github_dark&utcOffset=-3"/>
 
 </div>
 
@@ -310,7 +317,7 @@ Current interests:
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahcorataner&bg_color=030712&color=00E5FF&line=7C3AED&point=FF7A00&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahcorataner&bg_color=05070B&color=C7D0D9&line=58C7E8&point=D9913B&area=true&area_color=11161D&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
@@ -341,20 +348,20 @@ Current interests:
 <br>
 
 <a href="https://github.com/ahcorataner">
-<img src="https://img.shields.io/badge/GITHUB-ahcorataner-030712?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITHUB-ahcorataner-05070B?style=for-the-badge&logo=github&logoColor=58C7E8"/>
 </a>
 
 <a href="http://lattes.cnpq.br/3712352147711530">
-<img src="https://img.shields.io/badge/CURRÍCULO_LATTES-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CURRÍCULO_LATTES-66717D?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://orcid.org/0009-0001-4346-1259">
-<img src="https://img.shields.io/badge/ORCID-0009--0001--4346--1259-FF7A00?style=for-the-badge&logo=orcid&logoColor=030712"/>
+<img src="https://img.shields.io/badge/ORCID-0009--0001--4346--1259-D9913B?style=for-the-badge&logo=orcid&logoColor=05070B"/>
 </a>
 
 <br><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahcorataner&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ahcorataner&style=for-the-badge&color=66717D&label=PROFILE+VIEWS"/>
 
 <br><br><br>
 
@@ -372,6 +379,4 @@ BUILDING SYSTEMS · EXPLORING SIGNALS · TURNING DATA INTO DECISIONS
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,28:EC4899,52:7C3AED,76:00D9FF,100:030712&height=130&section=footer"/>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9913B,10:C7D0D9,38:66717D,68:11161D,100:05070B&height=130&section=footer"/>
