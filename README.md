@@ -1,11 +1,10 @@
-
 <!-- ========================================================= -->
-<!--                     RENATA ROCHA                          -->
+<!--                     RENATA ROCHA                           -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:06B6D4&height=220&section=header&text=Renata%20Costa&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Data%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Research&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:06B6D4&height=220&section=header&text=Renata%20Rocha&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Data%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Research&descAlignY=55&descSize=18"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Turning+data%2C+signals+and+algorithms+into+intelligent+systems.;Artificial+Intelligence+%7C+Machine+Learning+%7C+Software+Engineering;Data+Engineering+%7C+Automation+%26+Control;Biomedical+Signals+%7C+Computational+Research;Building+technology+from+research+to+real-world+systems." alt="Typing SVG" />
@@ -18,8 +17,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4346--1259-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4346-1259)
 
 </div>
-
----
 
 ## 👩‍💻 About Me
 
