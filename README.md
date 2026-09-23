@@ -1,377 +1,377 @@
+
 <!-- ========================================================= -->
-<!--                     RENATA ROCHA                           -->
+<!--                       RENATA ROCHA                         -->
+<!--              github.com/ahcorataner                       -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:06B6D4&height=220&section=header&text=Renata%20Rocha&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Data%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Research&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:0F172A,48:6D28D9,72:00D9FF,100:FF7A00&height=235&section=header&text=Renata%20Rocha&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20INTELLIGENCE%20%E2%80%A2%20RESEARCH&descAlignY=55&descSize=17"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Turning+data%2C+signals+and+algorithms+into+intelligent+systems.;Artificial+Intelligence+%7C+Machine+Learning+%7C+Software+Engineering;Data+Engineering+%7C+Automation+%26+Control;Biomedical+Signals+%7C+Computational+Research;Building+technology+from+research+to+real-world+systems." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=I+build+systems+that+turn+data+into+decisions.;Machine+Learning+%C2%B7+Software+%C2%B7+Signals+%C2%B7+Automation;From+research+prototypes+to+working+systems." alt="Typing animation"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahcorataner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahcorataner)
-[![Lattes](https://img.shields.io/badge/Lattes-CNPq-00A4E4?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/3712352147711530)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4346--1259-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4346-1259)
+<a href="https://github.com/ahcorataner">
+  <img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+<a href="http://lattes.cnpq.br/3712352147711530">
+  <img src="https://img.shields.io/badge/LATTES-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+<a href="https://orcid.org/0009-0001-4346-1259">
+  <img src="https://img.shields.io/badge/ORCID-FF7A00?style=for-the-badge&logo=orcid&logoColor=030712"/>
+</a>
 
 </div>
 
-## 👩‍💻 About Me
-
-I'm a **Computer Engineer**, **M.Sc. in Electrical Engineering** and **PhD Researcher in Automation & Control**, with a strong interest in building intelligent systems at the intersection of **Artificial Intelligence, Data, Software Engineering and Computational Research**.
-
-My work and research involve Machine Learning, statistical modeling, biomedical signal processing, automation, control systems and the development of modern software applications.
-
-I enjoy transforming complex engineering and scientific problems into practical computational solutions.
-
-```text
-Research  →  Data  →  Machine Learning  →  Engineering  →  Software
-````
-
-* 🧠 Artificial Intelligence & Machine Learning
-* ⚙️ Data Engineering & Automation
-* 💻 Software Engineering
-* 📊 Data Science & Analytics
-* 🔬 Computational Research
-* 🧬 Biomedical Signal Processing
-* 🎛️ Automation & Control
-* 🤖 Generative AI & Intelligent Applications
+<br>
 
 ---
 
-## ⚡ Tech Stack
-
-### 🧠 Artificial Intelligence & Data Science
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
-</div>
+## `01 // PROFILE`
 
 ```text
-Machine Learning
-Classification
-Regression
-Time Series
-Anomaly Detection
-Statistical Modeling
-Explainable AI
-SHAP
-Generative AI
+Computer Engineer
+M.Sc. Electrical Engineering · Automation & Control
+PhD Researcher · Automation & Control
+Postgraduate Studies · Artificial Intelligence
 ```
 
-### 🗄️ Data Engineering & Databases
+I build at the intersection of **software, data, machine learning and engineering**.
+
+My work spans full-stack applications, data pipelines, intelligent models, control systems and biomedical signal processing.
+
+I'm especially interested in problems where the final answer is not just an analysis or a model —
+
+> **but a system that actually works.**
 
 <div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=databricks\&logoColor=white)
+`DATA` → `MODELS` → `SOFTWARE` → `DECISIONS`
 
 </div>
+
+<br>
+
+---
+
+## `02 // SELECTED BUILDS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙ FIXER
+
+**Asset & Maintenance Management**
+
+Web platform designed around asset management, maintenance workflows, traceability and operational indicators.
+
+<br>
+
+`React` `TypeScript` `Vite`  
+`Supabase` `PostgreSQL`
+
+<br><br>
+
+<a href="https://github.com/ahcorataner/fixer">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=030712"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ Intelligent Document Translator
+
+**Document Intelligence**
+
+Application for processing and translating long documents while preserving their structure.
+
+<br>
+
+`Python` `Streamlit`  
+`APIs` `Document Processing`
+
+<br><br>
+
+<a href="https://github.com/ahcorataner/tradutorapp">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ◇ LexGuard AI
+
+**AI-Assisted Document Analysis**
+
+Platform combining generative AI, structured data and software automation for document-analysis workflows.
+
+<br>
+
+`React` `TypeScript`  
+`Generative AI` `Supabase`  
+`PostgreSQL` `Vercel`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ∿ Control Systems Analysis
+
+**Computational Engineering**
+
+Interactive application for dynamic systems, stability analysis, temporal response and frequency-domain analysis.
+
+<br>
+
+`Python` `Streamlit`  
+`Control Engineering`
+
+<br><br>
+
+<a href="https://engenharia-de-controle.streamlit.app/">
+<img src="https://img.shields.io/badge/LAUNCH_APP-FF7A00?style=for-the-badge&logo=streamlit&logoColor=030712"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+## `03 // STACK`
+
+<div align="center">
+
+### `LANGUAGES · FRAMEWORKS · DATA`
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,fastapi,postgres,supabase,sqlite&theme=dark"/>
+
+<br><br>
+
+### `ENGINEERING · DELIVERY`
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-00E5FF?style=flat-square&logo=scikitlearn&logoColor=030712"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-FF7A00?style=flat-square&logo=tensorflow&logoColor=030712"/>
+<img src="https://img.shields.io/badge/POWER_BI-FDE047?style=flat-square&logo=powerbi&logoColor=030712"/>
+<img src="https://img.shields.io/badge/DAX-7C3AED?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-2563EB?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-00D9FF?style=flat-square&logo=fastapi&logoColor=030712"/>
+<img src="https://img.shields.io/badge/SHAP-EC4899?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATISTICAL_MODELING-6D28D9?style=flat-square&logoColor=white"/>
+
+</div>
+
+<br>
+
+---
+
+## `04 // RESEARCH`
+
+My research explores **intelligent computational methods for biomedical and electrophysiological signals**, combining signal processing, statistical modeling, machine learning and system identification.
 
 ```text
-SQL • ETL • Data Modeling • Data Integration • Data Pipelines
+electrophysiological signals
+            │
+            ├── preprocessing
+            ├── feature extraction
+            ├── signal characterization
+            ├── statistical modeling
+            ├── machine learning
+            └── system identification
+                         │
+                         ▼
+              computational models
+                         │
+                         ▼
+               decision support
 ```
 
-### 💻 Software Engineering
+### Pediatric Anxiety Risk Assessment
+
+My master's research led to the development of a computational system based on machine learning for **pediatric anxiety risk assessment**.
+
+The project progressed beyond an academic experiment:
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+<img src="https://img.shields.io/badge/CILAMCE_2025-00D9FF?style=for-the-badge&logoColor=030712"/>
+<img src="https://img.shields.io/badge/INPI_REGISTERED_SOFTWARE-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/2nd_PLACE_INNOVATION-FF7A00?style=for-the-badge&logoColor=030712"/>
 
 </div>
 
-### 🛠️ Development & Deployment
+<br>
 
-<div align="center">
+**Research presented at CILAMCE 2025**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![API](https://img.shields.io/badge/REST_APIs-06B6D4?style=for-the-badge\&logo=fastapi\&logoColor=white)
+*Support System for the Diagnosis of the Risk of Anxiety Disorder in Children*
 
-</div>
-
-### 📊 Analytics & Automation
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge\&logo=powerautomate\&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge\&logo=powerapps\&logoColor=white)
-
-</div>
-
-```text
-Power BI • DAX • Power Query • Data Visualization • Automation
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🔧 FIXER — Asset Maintenance Management Platform
-
-> Modern web platform designed for asset management, maintenance orders, indicators and traceability.
-
-**Tech Stack**
-
-`React` `TypeScript` `Vite` `Supabase` `PostgreSQL`
-
-🔗 [View repository](https://github.com/ahcorataner/fixer)
-
----
-
-### 🌐 Intelligent Document Translator
-
-> Application designed to translate long documents while maintaining their structure and providing a simple interface for document processing.
-
-**Tech Stack**
-
-`Python` `Streamlit` `APIs` `Document Processing`
-
-🔗 [View repository](https://github.com/ahcorataner/tradutorapp)
-
----
-
-### ⚖️ LexGuard AI
-
-> AI-powered platform for intelligent document analysis, automation and interactive dashboards.
-
-**Tech Stack**
-
-`React` `TypeScript` `Generative AI` `Supabase` `PostgreSQL` `Vercel`
-
----
-
-### 📈 Control Systems Analysis
-
-> Interactive computational application for dynamic systems analysis, stability evaluation, time response, frequency response and automated reports.
-
-**Tech Stack**
-
-`Python` `Streamlit` `Control Engineering`
-
-🌐 [Open application](https://engenharia-de-controle.streamlit.app/)
-
----
-
-## 🔬 Research & Innovation
-
-<div align="center">
-
-### From scientific research to intelligent software
-
-</div>
-
-My academic research explores the application of **Artificial Intelligence, Machine Learning and computational methods to biomedical and electrophysiological signals**.
-
-Current research interests include:
-
-```text
-EEG
-│
-├── Signal Processing
-├── Feature Extraction
-├── Machine Learning
-├── System Identification
-├── Predictive Modeling
-└── Intelligent Decision Support
-```
-
-### 🧠 Artificial Intelligence applied to Biomedical Signals
-
-Research involving:
-
-* Machine Learning
-* Biomedical signal processing
-* EEG analysis
-* Statistical modeling
-* Pattern recognition
-* Automation & Control
-* Intelligent decision-support systems
-
----
-
-## 🎓 Academic Background
-
-```text
-PhD Researcher
-Electrical Engineering
-Automation & Control
-        │
-        ▼
-M.Sc. Electrical Engineering
-Automation & Control
-        │
-        ▼
-Computer Engineering
-        │
-        ▼
-B.Sc. Science & Technology
-```
-
-Also pursuing postgraduate studies in:
-
-**Artificial Intelligence**
-
----
-
-## 🧪 Master's Research
-
-### Support System for Pediatric Anxiety Risk Assessment
-
-Development of a computational decision-support system using **Machine Learning** for pediatric anxiety risk assessment.
-
-The research resulted in:
-
-* 🧠 Machine Learning models
-* 📊 Statistical evaluation
-* 🔍 Explainable computational analysis
-* 📄 Scientific research
-* 💻 Registered software
-
----
-
-## 🏆 Research & Innovation Highlights
-
-### 💻 Registered Software — INPI
-
-**Support System for the Diagnosis of Pediatric Anxiety Risk**
-
-Registration:
+**Computer Program Registration · INPI**
 
 ```text
 BR512026000679-1
 ```
 
-Registered as a computer program at the Brazilian National Institute of Industrial Property — **INPI**.
+<br>
 
 ---
 
-### 📄 CILAMCE
-
-Research presented at the:
-
-**XLVI Ibero-Latin American Congress on Computational Methods in Engineering — CILAMCE 2025**
-
-Research:
-
-> **Support System for the Diagnosis of the Risk of Anxiety Disorder in Children**
-
----
-
-### 🥈 Technological Innovation
-
-**2nd Place — Technological Innovation**
-
-XI Engineering Week
-
-Project involving wearable technology for the identification of anxiety disorder through physiological pattern recognition.
-
----
-
-## 🧬 Research Areas
+## `05 // RESEARCH FOCUS`
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-6D28D9?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine_Learning-06B6D4?style=for-the-badge)
-![Signals](https://img.shields.io/badge/Biomedical_Signals-EC4899?style=for-the-badge)
-![Control](https://img.shields.io/badge/Automation_&_Control-8B5CF6?style=for-the-badge)
-![Research](https://img.shields.io/badge/Computational_Research-0891B2?style=for-the-badge)
+<img src="https://img.shields.io/badge/EEG-00E5FF?style=for-the-badge&logoColor=030712"/>
+<img src="https://img.shields.io/badge/ECG-FF3CAC?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIGNAL_PROCESSING-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM_IDENTIFICATION-FF7A00?style=for-the-badge&logoColor=030712"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-00D9FF?style=for-the-badge&logoColor=030712"/>
 
 </div>
 
+<br>
+
+My current research focuses on computational models built from **electrophysiological signals**, with emphasis on EEG and ECG.
+
+The core problem is simple to state and difficult to solve:
+
+> How can raw physiological signals become reliable information for intelligent decision-support systems?
+
+```text
+RAW SIGNAL
+    │
+    ▼
+┌──────────────────────┐
+│  SIGNAL PROCESSING   │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│ FEATURE EXTRACTION   │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│ SYSTEM IDENTIFICATION│
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│ MACHINE LEARNING     │
+└──────────┬───────────┘
+           ▼
+   PREDICTIVE MODEL
+           │
+           ▼
+   DECISION SUPPORT
+```
+
+Current interests:
+
+`EEG` · `ECG` · `Signal Processing` · `System Identification` · `Machine Learning` · `Predictive Modeling`
+
+<br>
+
 ---
 
-## 📊 GitHub Analytics
+## `06 // GITHUB SIGNAL`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahcorataner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9"/>
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahcorataner&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcorataner&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"/>
+<br>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahcorataner&theme=tokyonight"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahcorataner&theme=tokyonight"/>
+
+<br>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahcorataner&theme=tokyonight"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahcorataner&theme=tokyonight&utcOffset=-3"/>
 
 </div>
 
----
+<br>
 
-## 🔥 Contribution Streak
+### `ACTIVITY`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahcorataner&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahcorataner&bg_color=030712&color=00E5FF&line=7C3AED&point=FF7A00&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
----
+<br>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahcorataner&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+### `CONTRIBUTION TRAIL`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahcorataner/ahcorataner/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahcorataner/ahcorataner/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ahcorataner/ahcorataner/output/github-contribution-grid-snake.svg">
+  <img width="95%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ahcorataner/ahcorataner/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
----
-
-## 🌐 Academic Profiles
-
-<div align="center">
-
-<a href="http://lattes.cnpq.br/3712352147711530">
-  <img src="https://img.shields.io/badge/Currículo_Lattes-Access_Profile-00A4E4?style=for-the-badge"/>
-</a>
-
-<a href="https://orcid.org/0009-0001-4346-1259">
-  <img src="https://img.shields.io/badge/ORCID-0009--0001--4346--1259-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-</div>
+<br>
 
 ---
 
+## `07 // CONNECT`
+
 <div align="center">
 
-### 💡 Engineering intelligent systems from data, signals and algorithms.
+### `RESEARCH · CODE · IDENTITY`
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahcorataner\&color=06B6D4\&style=for-the-badge\&label=PROFILE+VIEWS)
+<a href="https://github.com/ahcorataner">
+<img src="https://img.shields.io/badge/GITHUB-ahcorataner-030712?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
 
-<br><br>
+<a href="http://lattes.cnpq.br/3712352147711530">
+<img src="https://img.shields.io/badge/CURRÍCULO_LATTES-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:6D28D9,100:0D1117&height=120&section=footer"/>
+<a href="https://orcid.org/0009-0001-4346-1259">
+<img src="https://img.shields.io/badge/ORCID-0009--0001--4346--1259-FF7A00?style=for-the-badge&logo=orcid&logoColor=030712"/>
+</a>
+
+<br><br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ahcorataner&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+
+<br><br><br>
+
+```text
+SOFTWARE  ×  DATA  ×  INTELLIGENCE  ×  ENGINEERING
+```
+
+<br>
+
+<sub>
+BUILDING SYSTEMS · EXPLORING SIGNALS · TURNING DATA INTO DECISIONS
+</sub>
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,28:EC4899,52:7C3AED,76:00D9FF,100:030712&height=130&section=footer"/>
+
+
