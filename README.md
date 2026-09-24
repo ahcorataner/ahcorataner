@@ -31,10 +31,11 @@
 ## `01 // PROFILE`
 
 ```text
-Computer Engineer
-M.Sc. Electrical Engineering · Automation & Control
-PhD Researcher · Automation & Control
-Postgraduate Studies · Artificial Intelligence
+PhD Researcher · Electrical Engineering · Automation & Control | UFMA
+M.Sc. · Electrical Engineering · Automation & Control | UFMA
+Computer Engineer | UFMA
+Postgraduate Studies · Artificial Intelligence | UTFPR
+B.Sc. · Science & Technology | UFMA
 ````
 
 I build at the intersection of **software, data, machine learning and engineering**.
